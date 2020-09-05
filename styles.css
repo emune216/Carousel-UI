@@ -56,7 +56,7 @@ body {
   justify-content: space-around;
 }
 
-.dot {
+.dots button {
   background-color: black;
   width: 5px;
   height: 5px;
@@ -64,7 +64,7 @@ body {
   opacity: 0.3;
 }
 
-.photo {
+#photo {
   width: 100%;
   height: 100%;
   object-fit: cover;
